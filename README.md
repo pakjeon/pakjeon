@@ -1,11 +1,11 @@
 ### 你好！Hello!
 
-👋 我是一鸣前端工程师，热爱构建互联网世界的创造者。I'm a frontend engineer, passionate about crafting the digital world.
+👋 我是一位前端工程师，热爱搞钱。I'm a frontend engineer, love make money.
 
 #### 关于我 | About Me
 
 - 📍 坐标：广州 & 佛山 | Location: Guangzhou & Foshan
-- 💼 目前就职于一家创新的科技公司 | Currently working at an innovative tech company
+- 💼 目前就职于一家创新的科技公司 | Currently working for an Internet company
 - 🌍 喜欢游戏，极地大乱斗、空洞骑士、死亡细胞... | Like to play games, League of Legends, Hollow Knight, Dead cells...
 
 #### 技能栈 | Skills
