@@ -1,16 +1,30 @@
-### Hi there 👋
+# 你好！Hello!
 
-<!--
-**pakjeon/pakjeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 我是广州的前端工程师，热爱构建互联网世界的创造者。I'm a frontend engineer based in Guangzhou, passionate about crafting the digital world.
 
-Here are some ideas to get you started:
+## 关于我 | About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💼 目前就职于一家创新的科技公司 | Currently working at an innovative tech company
+- 🌍 喜欢游戏，极地大乱斗、空洞骑士、死亡细胞... | Like to play games, League of Legends, Hollow Knight, Dead cells...
+
+## 技能栈 | Skills
+
+```javascript
+const skills = {
+  frontend: ["HTML", "CSS", "JavaScript", "React", "Vue"],
+  tools: ["Git", "Webpack", "VS Code"],
+  challenges: ["Responsive Design", "Cross-browser Compatibility", "Performance Optimization"],
+};
+```
+
+## 项目 | Projects
+
+- 🌐 很遗憾仍没有能拿出手的项目 | Unfortunately, there are still no projects to sell
+
+## 连接 | Connect with Me
+
+- 📧 Email: makpakjeon@gmail.com
+// - 🔗 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
+- 🐦 Twitter: [@PakJeon1](https://twitter.com/PakJeon1)
+
+
