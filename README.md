@@ -8,7 +8,7 @@
 - 💼 目前就职于一家创新的科技公司 | Currently working for an Internet company
 - 🌍 喜欢游戏，极地大乱斗、空洞骑士、死亡细胞... | Like to play games, League of Legends, Hollow Knight, Dead cells...
 
-#### 技能栈 | Skills
+#### 技术栈 | Skills
 
 ```javascript
 const skills = {
