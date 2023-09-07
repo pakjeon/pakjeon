@@ -1,6 +1,6 @@
 ### 你好！Hello!
 
-👋 我是一位前端工程师，热爱搞钱。I'm a frontend engineer, love make money.
+👋 我是Pakjeon，热爱搞钱。I'm Pakjeon, love make money.
 
 #### 关于我 | About Me
 
@@ -17,10 +17,6 @@ const skills = {
   challenges: ["Responsive Design", "Cross-browser Compatibility", "Performance Optimization"],
 };
 ```
-
-#### 项目 | Projects
-
-- 🌐 很遗憾仍没有能拿出手的项目 | Unfortunately, there are still no projects to sell
 
 #### 连接 | Connect with Me
 
