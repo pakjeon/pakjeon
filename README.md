@@ -1,11 +1,11 @@
 ### 你好！Hello!
 
-👋 我是Pakjeon，热爱搞钱。I'm Pakjeon, love make money.
+👋 我是 PakJeon. I'm PakJeon.
 
 #### 关于我 | About Me
 
 - 📍 坐标：广州 & 佛山 | Location: Guangzhou & Foshan
-- 💼 目前就职于一家创新的科技公司 | Currently working for an Internet company
+- 💼 目前就职于广州一家独角兽互联网公司 | Currently working for a unicorn internet company based in Guangzhou.
 - 🌍 喜欢游戏，极地大乱斗、空洞骑士、死亡细胞... | Like to play games, League of Legends, Hollow Knight, Dead cells...
 
 #### 技术栈 | Skills
@@ -22,5 +22,5 @@ const skills = {
 
 - 📧 Email: makpakjeon@gmail.com
 - 🐦 Twitter: [@PakJeon1](https://twitter.com/PakJeon1)
-
+- 🌐 Juejin：[PakJeon](https://juejin.cn/user/2049145407551405)
 
