@@ -13,7 +13,7 @@
 ```javascript
 const skills = {
   frontend: ["HTML", "CSS", "JavaScript", "React", "Vue"],
-  tools: ["Git", "Webpack", "VS Code"],
+  tools: ["Git", "Webpack", "VS Code", "Vim"],
   challenges: ["Responsive Design", "Cross-browser Compatibility", "Performance Optimization"],
 };
 ```
