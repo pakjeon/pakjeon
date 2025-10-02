@@ -4,8 +4,8 @@
 
 #### 关于我 | About Me
 
-- 📍 坐标：广州 & 佛山 | Location: Guangzhou & Foshan
-- 💼 目前就职于广州一家独角兽互联网公司 | Currently working for a unicorn internet company based in Guangzhou.
+- 📍 坐标：广州 | Location: Guangzhou
+- 💼 目前就职于广州一家独角兽公司 | Currently working for a unicorn company based in Guangzhou.
 - 🌍 喜欢游戏，极地大乱斗、空洞骑士、死亡细胞... | Like to play games, League of Legends, Hollow Knight, Dead cells...
 
 #### 技术栈 | Skills
